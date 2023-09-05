@@ -1,6 +1,8 @@
 ---
 active: true
-articles: []
+articles:
+  - overview-of-julian-jaynes-s-theory-of-consciousness-and-the-bicameral-mind
+  - test
 exerpt: ''
 firstname: Antoine
 is_institution: false
@@ -17,7 +19,9 @@ picture: /noun-france-26939.svg
 picture_copyright: ''
 positions_and_institutions:
   - institution: PARIS IAS
-    positions: []
+    positions:
+      '0':
+        position: CTO
 social_channels:
   google_scholar: ''
   instagram: ''
@@ -27,8 +31,10 @@ social_channels:
   researchgate: ''
   twitter: ''
   website: ''
+  webstwitterite: ''
   wikipedia: ''
 years:
   - 2021
+  - 2023
 
 ---
