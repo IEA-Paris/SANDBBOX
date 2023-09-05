@@ -4,7 +4,7 @@ local_backend:
 # when accessing the local site from
 backend:
   name: github
-  repo: IEA-Paris/PFIAS
+  repo: IEA-Paris/SANDBOX
   branch: main
   base_url: https://85o05b11ri.execute-api.eu-west-2.amazonaws.com/
   auth_endpoint: "/dev/auth"
@@ -13,8 +13,8 @@ publish_mode: editorial_workflow
 media_folder: "static"
 public_folder: "/"
 locale: fr
-site_url: https://france.pias.science
-logo_url: https://france.pias.science/icon.png
+site_url: https://sandbox.pias.science
+logo_url: https://sandbox.pias.science/icon.png
 show_preview_links: false
 i18n:
   structure: multiple_folders

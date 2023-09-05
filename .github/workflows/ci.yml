@@ -7,7 +7,7 @@ on:
     paths-ignore:
       - "infra/**"
 jobs:
-  PPIAS:
+  SANDBOX:
     runs-on: ubuntu-latest
 
     defaults:

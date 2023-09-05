@@ -9,7 +9,7 @@ on:
       - ".github/workflows/infra.yml"
 
 jobs:
-  PFIAS:
+  SANDBOX:
     runs-on: ubuntu-latest
 
     defaults:
@@ -24,4 +24,4 @@ jobs:
           repo: IEA-Paris/PIAS
           token: ${{ secrets.SERVICE_USER_PAT }}
           ref: refs/heads/main
-          inputs: '{ "name": "SANDBOX", "domain": "sandbox", "acm_certificate_arn": "arn:aws:acm:us-east-1:720928668014:certificate/af936a71-516a-40fc-8187-121807242a41"}'
+          inputs: '{ "name": "SANDBOX", "domain": "sandbox", "acm_certificate_arn": "arn:aws:acm:eu-west-3:720928668014:certificate/b996697b-4632-4080-8b4b-729d05a9303f"}'
