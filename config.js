@@ -3,6 +3,7 @@ import colors from "vuetify/es5/util/colors"
 export default {
   env: { NODE_ENV: "dev" },
   name: "SANDBOX",
+  repo: "IEA-Paris/SANDBOX",
   domain: "sandbox", //> sandbox.pias.science
   full_name:
     "Sandbox of the Proceedings of the Institutes for Advanced Studies", // set to false if there is none
