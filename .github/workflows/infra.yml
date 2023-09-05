@@ -24,4 +24,4 @@ jobs:
           repo: IEA-Paris/PIAS
           token: ${{ secrets.SERVICE_USER_PAT }}
           ref: refs/heads/main
-          inputs: '{ "name": "SANDBOX", "domain": "sandbox", "acm_certificate_arn": "arn:aws:acm:eu-west-3:720928668014:certificate/b996697b-4632-4080-8b4b-729d05a9303f"}'
+          inputs: '{ "name": "SANDBOX", "domain": "sandbox", "acm_certificate_arn": "arn:aws:acm:us-east-1:720928668014:certificate/29daa739-07ae-46a5-8581-14e137a30be6"}'
