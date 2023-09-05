@@ -4,8 +4,8 @@ article_title: "Overview of Julian Jaynes’s Theory of Consciousness and the Bi
 date: 2023-09-05T11:26:44.505Z
 needDOI: false
 authors:
-  - firstname: Antoine
-    lastname: Cordelois
+  - firstname: ''
+    lastname: Julian Jaynes Society. 
     positions_and_institutions:
       - institution: PARIS IAS
         positions:
@@ -19,7 +19,7 @@ authors:
       google_scholar: ""
       researchgate: ""
       mendeley: ""
-    is_institution: false
+    is_institution: true
 abstract: It came from the CMS. Nobody could see it coming..
 issue: content/issues/test_issue.md
 highlight: true
