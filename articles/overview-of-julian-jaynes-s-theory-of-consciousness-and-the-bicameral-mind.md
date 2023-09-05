@@ -21,7 +21,7 @@ authors:
       mendeley: ""
     is_institution: false
 abstract: It came from the CMS. Nobody could see it coming..
-issue: /content/issues/test_issue.md
+issue: content/issues/test_issue.md
 highlight: true
 language: English
 ---
