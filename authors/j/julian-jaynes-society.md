@@ -9,7 +9,7 @@ issue:
   - content/issues/test_issue.md
 language:
   - English
-lastname: Julian Jaynes Society.
+lastname: Julian Jaynes Society
 positions_and_institutions:
   - institution: Julian Jaynes Society
 social_channels:
@@ -19,7 +19,7 @@ social_channels:
   orcid: ''
   researchgate: ''
   twitter: ''
-  website: https://www.julianjaynes.org/about/about-jaynes-theory/overview/
+  website: 'https://www.julianjaynes.org/about/about-jaynes-theory/overview/'
   wikipedia: ''
 years:
   - 2023

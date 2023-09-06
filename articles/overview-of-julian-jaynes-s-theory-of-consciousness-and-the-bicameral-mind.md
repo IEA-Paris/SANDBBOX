@@ -5,7 +5,7 @@ date: 2023-09-05T11:26:44.505Z
 needDOI: false
 authors:
   - firstname: ''
-    lastname: Julian Jaynes Society. 
+    lastname: Julian Jaynes Society 
     positions_and_institutions:
       - institution: Julian Jaynes Society
     social_channels:
