@@ -14,6 +14,7 @@ export default {
   email: "publications@paris-iea.fr",
   subtitle: "Open source publishing platform for open science.",
   logo: "icon.png",
+  logo_alt: "icon_w.png",
   description: "Open source publishing platform for open science.",
   splash_title: "Open source publishing platform for open science.",
   recaptcha: "6Lc_xuUUAAAAALwowUq0cC0wFtFnZ2NCi3UH4i1j",
