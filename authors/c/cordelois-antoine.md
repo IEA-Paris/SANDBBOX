@@ -1,7 +1,6 @@
 ---
 active: true
 articles:
-  - overview-of-julian-jaynes-s-theory-of-consciousness-and-the-bicameral-mind
   - test
 exerpt: ''
 firstname: Antoine
