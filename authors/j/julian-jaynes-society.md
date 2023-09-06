@@ -19,7 +19,7 @@ social_channels:
   orcid: ''
   researchgate: ''
   twitter: ''
-  website: 'https://www.julianjaynes.org/about/about-jaynes-theory/overview/'
+  website: https://www.julianjaynes.org/about/about-jaynes-theory/overview/
   wikipedia: ''
 years:
   - 2023
