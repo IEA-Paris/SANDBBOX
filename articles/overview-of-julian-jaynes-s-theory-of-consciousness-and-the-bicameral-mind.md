@@ -23,7 +23,6 @@ issue: content/issues/test_issue.md
 highlight: true
 language: English
 ---
-
 ## Overview of Julian Jaynes's Theory of Consciousness and the Bicameral Mind
 
 In January of 1977 Princeton University psychologist Julian Jaynes (1920--1997) put forth a bold new theory of the origin of consciousness and a previous mentality known as the bicameral mind in the controversial but critically acclaimed book *The Origin of Consciousness in the Breakdown of the Bicameral Mind*. Jaynes was far ahead of his time, and his theory remains as relevant and influential today as when it was first published.
