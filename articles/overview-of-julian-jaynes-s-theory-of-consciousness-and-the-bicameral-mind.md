@@ -7,15 +7,13 @@ authors:
   - firstname: ''
     lastname: Julian Jaynes Society. 
     positions_and_institutions:
-      - institution: PARIS IAS
-        positions:
-          - position: CTO
+      - institution: Julian Jaynes Society
     social_channels:
-      website: ""
+      website: "https://www.julianjaynes.org/about/about-jaynes-theory/overview/"
       wikipedia: ""
       orcid: ""
       linkedin: ""
-      webstwitterite: ""
+      twitter: ""
       google_scholar: ""
       researchgate: ""
       mendeley: ""
