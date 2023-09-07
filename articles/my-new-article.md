@@ -8,9 +8,9 @@ authors:
     firstname: Antoine
     lastname: Cordelois
     positions_and_institutions:
-      - institution: SIG Tools and Platform coordinator
+      - institution: Operas
         positions:
-          - position: Operas
+          - SIG Tools and Platform coordinator
     social_channels:
       website: ""
       wikipedia: ""
