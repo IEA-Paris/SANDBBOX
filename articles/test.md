@@ -13,7 +13,10 @@ authors:
     lastname: Cordelois
     picture: ""
     picture_copyright: ""
-    positions_and_institutions: []
+    positions_and_institutions: 
+      - institution: Poudlard
+        positions:
+          - Professor
     social_channels:
       google_scholar: ""
       researchgate: ""

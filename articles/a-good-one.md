@@ -10,7 +10,7 @@ authors:
     positions_and_institutions:
       - institution: IAS PARIS
         positions:
-          - position: CTO
+          - CTO
     social_channels:
       website: ""
       wikipedia: ""

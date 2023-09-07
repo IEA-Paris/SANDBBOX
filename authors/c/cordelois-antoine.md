@@ -18,7 +18,7 @@ picture_copyright: ''
 positions_and_institutions:
   - institution: Operas
     positions:
-      '0': SIG Tools and Platform coordinator
+      - SIG Tools and Platforms coordinator
 social_channels:
   google_scholar: ''
   instagram: ''
