@@ -16,9 +16,15 @@ lastname: Cordelois
 picture: ''
 picture_copyright: ''
 positions_and_institutions:
+  - institution: IAS PARIS
+    positions:
+      - CTO
   - institution: Operas
     positions:
       - SIG Tools and Platforms coordinator
+  - institution: Poudlard
+    positions:
+      - Professor
 social_channels:
   google_scholar: ''
   instagram: ''
