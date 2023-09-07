@@ -3,6 +3,7 @@ active: true
 articles:
   - my-new-article
   - test
+  - a-good-one
 exerpt: ''
 firstname: Antoine
 is_institution: false
@@ -17,7 +18,7 @@ picture_copyright: ''
 positions_and_institutions:
   - institution: Operas
     positions:
-      - SIG Tools and Platform coordinator
+      '0': SIG Tools and Platform coordinator
 social_channels:
   google_scholar: ''
   instagram: ''
