@@ -2,6 +2,7 @@
 active: true
 articles:
   - test
+  - my-new-article
 exerpt: ''
 firstname: Antoine
 is_institution: false
