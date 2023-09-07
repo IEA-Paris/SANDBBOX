@@ -17,8 +17,7 @@ picture_copyright: Antoine Cordelois
 positions_and_institutions:
   - institution: PARIS IAS
     positions:
-      '0':
-        position: CTO
+      '0': SIG Tools and Platform coordinator
 social_channels:
   google_scholar: ''
   instagram: ''
