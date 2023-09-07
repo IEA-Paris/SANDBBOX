@@ -22,6 +22,7 @@ authors:
       mendeley: ""
 abstract: |
   The abstract of my new article
+issue: content/issues/test_issue.md
 highlight: false
 language: English
 ---

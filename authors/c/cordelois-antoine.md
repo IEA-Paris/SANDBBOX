@@ -6,7 +6,6 @@ exerpt: ''
 firstname: Antoine
 is_institution: false
 issue:
-  - content/issues/test issue.md
   - content/issues/second-test-issue.md
   - content/issues/test_issue.md
 language:
