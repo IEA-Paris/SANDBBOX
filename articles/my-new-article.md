@@ -1,6 +1,6 @@
 ---
 published: true
-article_title: My new article
+article_title: My new article is cool
 date: 2023-09-07T06:46:06.715Z
 needDOI: false
 authors:
