@@ -18,13 +18,15 @@ picture_copyright: ''
 positions_and_institutions:
   - institution: IAS PARIS
     positions:
-      - CTO
+      - null
+      - null
+      - null
   - institution: Operas
     positions:
-      - SIG Tools and Platforms coordinator
+      - null
   - institution: Poudlard
     positions:
-      - Professor
+      - null
 social_channels:
   google_scholar: ''
   instagram: ''
