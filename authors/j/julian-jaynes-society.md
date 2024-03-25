@@ -12,6 +12,7 @@ language:
 lastname: Julian Jaynes Society
 positions_and_institutions:
   - institution: Julian Jaynes Society
+    positions: []
 social_channels:
   google_scholar: ''
   linkedin: ''

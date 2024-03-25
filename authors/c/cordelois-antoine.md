@@ -4,6 +4,7 @@ articles:
   - my-new-article
   - test
   - a-good-one
+  - yet-another-test-article
 exerpt: ''
 firstname: Antoine
 is_institution: false
@@ -13,20 +14,18 @@ issue:
 language:
   - English
 lastname: Cordelois
-picture: ''
+picture: https://www.paris-iea.fr/images/equipe/26466/_thumb3/img-20210712-wa0004.jpg
 picture_copyright: ''
 positions_and_institutions:
   - institution: IAS PARIS
     positions:
-      - null
-      - null
-      - null
+      - CTO
+      - SIG Tools and Platform coordinator
+      - Professor
   - institution: Operas
-    positions:
-      - null
+    positions: []
   - institution: Poudlard
-    positions:
-      - null
+    positions: []
 social_channels:
   google_scholar: ''
   instagram: ''
@@ -41,5 +40,6 @@ social_channels:
 years:
   - 2023
   - 2021
+  - 2024
 
 ---
